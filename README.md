@@ -18,5 +18,5 @@
 
 ---
 
-📫 **Contact:** irfan.irfan@student.lut.fi  
+📫 **Contact:** irfan.1661@outlook.com  
 🔗 **LinkedIn:** [linkedin.com/in/irfanirfan166](https://linkedin.com/in/irfanirfan166)
