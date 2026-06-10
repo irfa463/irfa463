@@ -7,7 +7,7 @@
 
 ---
 
-### 🗂 Repositories (depositing on thesis submission — 2026)
+### 🗂 Repositories (Master's Thesis)
 
 | Repo | Description | Language |
 |------|-------------|----------|
